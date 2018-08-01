@@ -9,6 +9,8 @@ This project explores different way of composing state onto components within Re
 1.  withState HOC in generic pure ReasonML
 1.  Render prop generic component in pure ReasonML
 
+See the [result here](https://marcelcutts.github.io/ComposableStateRE/).
+
 ## Run Project
 
 ```sh
